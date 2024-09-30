@@ -1,7 +1,7 @@
 title: Alexandra's Photography
-email: your-email@example.com
+email: ola.szczerba@gmail.com
 description: >- 
   A professional portfolio of Alexandra Szczerba's photography, featuring landscapes, portraits, and urban work.
-baseurl: "/photography-site"
-url: "http://your-github-username.github.io"
+baseurl: "/photography"
+url: "http://alexandraszczerba.github.io"
 theme: null
